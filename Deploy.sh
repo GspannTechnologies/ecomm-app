@@ -1,1 +1,2 @@
-This is sample file to understand git 
+This is sample file to understand git
+Adding one more line... 
